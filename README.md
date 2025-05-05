@@ -22,7 +22,7 @@
 <br>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NESSTID&theme=dracula" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItsukaShidou728&theme=dracula" />
 </p>
 
 ------
